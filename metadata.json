@@ -1,0 +1,6 @@
+{
+  "name": "ANIMORA STUDIO",
+  "description": "Professional browser-based animation and filmmaking studio for creating scene-by-scene animated and photorealistic movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
